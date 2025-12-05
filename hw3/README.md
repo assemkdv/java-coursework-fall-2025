@@ -25,11 +25,17 @@ Key Concepts Demonstrated
 
 Sample output:
 Screen Art Program
+
 Enter 1 to print rectangular pattern
+
 Enter 2 to print reverse triangular pattern
+
 Enter 3 to print reverse stair step pattern
+
 Enter -1 to exit program
+
 Your choice:
+
 3
 
 Reverse stair step pattern selected
