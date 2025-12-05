@@ -8,8 +8,13 @@ A Java program that prints a custom ASCII Christmas tree using nested loops.
 
 ## Sample Output:
 Enter the number of rows: 5
+
+```
+
     *
    ***
   *****
  *******
 *********
+
+```
