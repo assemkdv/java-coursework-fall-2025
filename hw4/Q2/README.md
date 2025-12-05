@@ -36,15 +36,16 @@ fib(n) = fib(n - 1) + fib(n - 2)
 
 ## Sample Output
 
+```
 Enter a non-negative integer n:
-
 7
 
 The 7th Fibonacci number is: 13
 
-
 Enter a non-negative integer n:
-
 5
 
 The 5th Fibonacci number is: 5
+
+```
+
