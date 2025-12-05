@@ -17,26 +17,43 @@ The pay calculation is performed inside a required method named `paycalculator`,
 
 ## Sample Output
 Enter hours worked:
+
 20
+
 Enter rate per hour:
+
 50
+
 The total gross pay is: $1000.00
 
 Enter hours worked:
+
 60
+
 Enter rate per hour:
+
 50
+
 The total gross pay is: $4000.00
 
 Enter hours worked:
+
 0
+
 Enter rate per hour:
+
 50
+
 The total gross pay is: $0.00
 
+
 Enter hours worked:
+
 105
+
 Enter rate per hour:
+
 50
+
 The total gross pay is: $8500.00
 
