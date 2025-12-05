@@ -36,7 +36,7 @@ fib(n) = fib(n - 1) + fib(n - 2)
 
 ## Sample Output
 
-```
+```text
 Enter a non-negative integer n:
 7
 
@@ -47,6 +47,3 @@ Enter a non-negative integer n:
 5
 
 The 5th Fibonacci number is: 5
-
-```
-
