@@ -1,6 +1,6 @@
 # HW4 Q2
 
-## 📌 Overview
+## Overview
 This program prompts the user for a non-negative integer `n` and prints the **nth Fibonacci number**. The Fibonacci value is computed using a method named `fib(n)`, which takes an integer parameter and returns the corresponding Fibonacci number.
 
 The program demonstrates mathematical recursion/iteration concepts and method-based problem solving.
