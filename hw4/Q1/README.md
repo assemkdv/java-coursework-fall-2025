@@ -23,41 +23,29 @@ A separate method named `gradecalculation` is used to convert the numeric score 
 
 ## Sample Output
 
-```
-
+```text
 Enter a score between 1 and 100:
 95
-
 The grade is: A
-
 
 Enter a score between 1 and 100:
 85
-
 The grade is: B
-
 
 Enter a score between 1 and 100:
 70
-
 The grade is: C
-
 
 Enter a score between 1 and 100:
 105
-
 Error: Score is out of range.
-
 
 Enter a score between 1 and 100:
 -2
-
 Error: Score is out of range.
-
 
 Enter a score between 1 and 100:
 0
-
 The grade is: F
 
 
