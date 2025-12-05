@@ -26,9 +26,13 @@ Each number is the sum of the **two previous numbers**:
 - Mathematical problem solving
 
 ## Fibonacci Logic
+
 fib(1) = 1
+
 fib(2) = 1
+
 fib(n) = fib(n - 1) + fib(n - 2)
+
 
 ## Sample Output
 
