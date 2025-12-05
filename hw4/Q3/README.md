@@ -26,6 +26,7 @@ Enter rate per hour:
 
 The total gross pay is: $1000.00
 
+
 Enter hours worked:
 
 60
