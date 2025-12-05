@@ -12,7 +12,8 @@ The application allows the user to:
 The program demonstrates object-oriented programming fundamentals, including class design, encapsulation, arrays of objects, method usage, and controlled program flow.
 
 ---
-Concepts Demonstrated
+
+## Concepts Demonstrated
 
 Object-Oriented Programming (OOP)
 
@@ -28,6 +29,8 @@ Loops & control flow
 
 Updating object state through setters
 
+
+## Sample Output
 
 ```text
 
