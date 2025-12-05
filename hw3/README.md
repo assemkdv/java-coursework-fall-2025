@@ -3,11 +3,11 @@ This program displays an interactive menu that allows the user to generate diffe
 The user can choose from:
 
 
-Rectangle
+- Rectangle
 
-Reverse Right Triangle
+- Reverse Right Triangle
 
-Reverse Stair Step
+- Reverse Stair Step
 
 
 Each pattern is built using characters printed through loop structures.
