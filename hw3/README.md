@@ -35,12 +35,16 @@ Your choice:
 Reverse stair step pattern selected
 Number of steps?
 6
+
+```
      #
     #
    #
   #
  #
 #
+
+```
 
 Screen Art Program
 Enter 1 to print rectangular pattern
@@ -62,6 +66,7 @@ Number of steps?
   #
  #
 #
+
 ```
 
 Screen Art Program
@@ -76,12 +81,16 @@ Reverse triangular pattern selected
 Size of Top?
 6
 
+```
+
 ******
 *****
 ****
 ***
 **
 *
+
+```
 
 Screen Art Program
 Enter 1 to print rectangular pattern
@@ -98,12 +107,16 @@ How many rows?
 How many columns?
 3
 
+```
+
 ***
 ***
 ***
 ***
 ***
 ***
+
+```
 
 Screen Art Program
 Enter 1 to print rectangular pattern
@@ -127,9 +140,13 @@ Reverse triangular pattern selected
 Size of Top?
 3
 
+```
+
 ***
 **
 *
+
+```
 
 Screen Art Program
 Enter 1 to print rectangular pattern
