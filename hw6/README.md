@@ -15,19 +15,19 @@ The program demonstrates object-oriented programming fundamentals, including cla
 
 ## Concepts Demonstrated
 
-Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP)
 
-Arrays of objects
+- Arrays of objects
 
-Menu-driven programs
+- Menu-driven programs
 
-Input validation
+- Input validation
 
-Methods for modular functionality
+- Methods for modular functionality
 
-Loops & control flow
+- Loops & control flow
 
-Updating object state through setters
+- Updating object state through setters
 
 
 ## Sample Output
