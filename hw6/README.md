@@ -9,7 +9,17 @@ The application allows the user to:
 - Navigate menus with validation and repeat logic  
 - Exit gracefully at any time  
 
-The program demonstrates object-oriented programming fundamentals, including class design, encapsulation, arrays of objects, method usage, and controlled program flow.
+This program consists of two main files:
+
+1. **EBook.java**  
+   - Defines the `EBook` class with private fields (title, author, version, price, filename).  
+   - Includes a constructor, getters and setters, and a `displayDetail()` method.
+
+2. **hw6.java**  
+   - Implements the main library application.  
+   - Creates an array of five `EBook` objects.  
+   - Provides a top-level menu for viewing eBook details, updating prices, or exiting.  
+   - Includes a submenu for selecting specific eBooks.
 
 ---
 
