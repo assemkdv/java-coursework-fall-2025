@@ -2,7 +2,7 @@
 ---
 
 ## Overview
-This program practices writing and calling methods in Java, specifically focusing on numeric processing and method return values. You will create a method named `digiSum` that accepts an integer as a parameter and returns the **sum of all its digits**.
+This program practices writing and calling methods in Java, specifically focusing on numeric processing and method return values. You will create a method named `digitSum` that accepts an integer as a parameter and returns the **sum of all its digits**.
 
 The method must work correctly for:
 - **Positive integers**  
@@ -10,11 +10,11 @@ The method must work correctly for:
 - **Zero**  
 
 For example:  
-- `digiSum(29107) → 19`  
-- `digiSum(-456) → 15`  
-- `digiSum(0) → 0`
+- `digitSum(29107) → 19`  
+- `digitSum(-456) → 15`  
+- `digitSum(0) → 0`
 
-The main program should prompt the user for an integer, call the `digiSum` method, and print the result.
+The main program should prompt the user for an integer, call the `digitSum` method, and print the result.
 
 ---
 
