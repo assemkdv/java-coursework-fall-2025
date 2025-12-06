@@ -1,6 +1,6 @@
 # Last Digit & Last Two Digits Extractor 
 
-This assignment focuses on practicing **Java operators**, **integer manipulation**, and basic **input/output** using the `Scanner` class. The program reads an integer entered by the user—positive or negative—and prints both its **last digit** and **last two digits**.
+This assignment focuses on practicing **Java operators**, **integer manipulation**, and basic **input/output** using the `Scanner` class. The program reads an integer entered by the user, positive or negative, and prints both its **last digit** and **last two digits**.
 
 The program also correctly handles **single-digit integers** by padding the last two digits with a leading zero.
 
