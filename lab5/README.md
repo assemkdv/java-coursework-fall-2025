@@ -17,9 +17,9 @@ The purpose of this assignment is to practice:
 
 ---
 
-## 🧠 Program Requirements
+## Program Requirements
 
-### ✔ Input
+### Input
 The program must:
 
 1. Prompt the user for the **current salary**
