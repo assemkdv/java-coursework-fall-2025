@@ -45,15 +45,15 @@ Poor               | 1.5%
 
 Enter the current salary: 1000
 Enter the performance rating (Excellent, Good, or Poor): Good
-Current Salary:       $1000.0
+Current Salary: $1000.0
 Amount of your raise: $40.0
-Your new salary:      $1040.0
+Your new salary: $1040.0
 
 Enter the current salary: 1000
 Enter the performance rating (Excellent, Good, or Poor): Poor
-Current Salary:       $1000.0
+Current Salary: $1000.0
 Amount of your raise: $15.0
-Your new salary:      $1015.0
+Your new salary: $1015.0
 
 Enter the current salary: -1000
 Error: Salary cannot be negative. Please reenter: -200
