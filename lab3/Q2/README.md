@@ -17,10 +17,12 @@ This program reads a **three-digit integer** from the user—positive or negativ
 
 ```text
 
+Sample Run 1:
 Enter a three-digit number:
 -123
 Sum of digits: 6
 
+Sample Run 2:
 Enter a three-digit number:
 456
 Sum of digits: 15
