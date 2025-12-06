@@ -19,6 +19,7 @@ The program also correctly handles **single-digit integers** by padding the last
 
 ```text
 
+Sample Run 1:
 Enter an integer: 12345
 Last digit: 5 
 Last two digits: 45
