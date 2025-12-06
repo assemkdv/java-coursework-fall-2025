@@ -9,7 +9,7 @@ This program reads four real numbers that represent the Cartesian coordinates of
 The program then computes the distance between these two points by calling a custom method named **`distance(x1, y1, x2, y2)`**, which uses the standard distance formula:
 
 \[
-\text{distance} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+√((x2 - x1)² + (y2 - y1)²)
 \]
 
 The result is printed to the user.
