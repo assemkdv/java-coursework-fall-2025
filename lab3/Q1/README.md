@@ -6,15 +6,6 @@ The program also correctly handles **single-digit integers** by padding the last
 
 ---
 
-## Objective
-
-- Practice extracting numerical components using operators (`%`, `/`).
-- Learn to manage positive and negative numbers correctly.
-- Gain experience with formatted console output.
-- Use the `Scanner` class for user input.
-
----
-
 ## Sample Output 
 
 ```text
