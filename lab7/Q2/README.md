@@ -7,11 +7,7 @@ In this assignment, the program prompts the user to enter:
 - a **positive real number** (base), and  
 - an **integer** (exponent).
 
-The program then computes the value of  
-\[
-a^n
-\]  
-by calling a custom method **`power(a, n)`** that performs the calculation manually using **loops**, instead of using `Math.pow()`.
+The program then computes the value of a^n by calling a custom method **`power(a, n)`** that performs the calculation manually using **loops**, instead of using `Math.pow()`.
 
 ---
 
